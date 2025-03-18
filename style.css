@@ -1,414 +1,416 @@
 .contact_email{
-   float: left;
-   margin-left: 200px;
-   margin-top: -30px;
-}
-.contact_tel{
-   float: right;
-   margin-right: 200px;
-}
-#done_header_icon{
-width: 20px;
-}
-#topmost_header{
-    border: 2px solid black;
-    background-color: black;
-    color: aliceblue;
-    text-align: center;
-    display: flex;
-    border-radius: 5px;
-    align-items: center;
-    
-}
-.fa-solid{
-    display: flex;
-   
-}
-#Phone_icon{
-    float: right;
-    margin-right: 40px;
-    margin-top: 25px;
-
-}
-#Email_icon{
     float: left;
-    margin-left: 40px;
-    margin-top: 20px;
-    width: 50px;
-}
-#navigation_bar{
-    word-spacing: 120px;
-    margin-top: 100px;
-    text-align: center;
-}
-#first_image{
-    display: block;
-  margin-top: 50px;
-  width: 100%;
-  height: 700px;
- 
-}
-.container{
-    position: relative;
-    text-align: center;
-    color: white;
-   
-}
-.image_text{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    color: antiquewhite;
-    background-color: rgba(0, 0, 0, 0.5);
-    z-index: 1;
-    width: 100%;
-    height: 80%;
-    margin-top: 60px;
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.8) 100%);
-  
-  
-}
-h1{
-    font-size: 100px;
-    font-weight:700;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    /* line-height: 0.8cm; */
-}
-#logo{
-    margin-left: 10px;
-    margin-top: 80px;
-
-}#get_started_button{
-    width: 200px;
-    height: 70px;
-    background-color: orange;
-    color: white;
-}
-.About_us{
-    float: left;
-   margin-left: 200px;
-   padding-top: 100px;
-}
-h2{
-    font-size: 50px;
-    font-weight: bolder;
-}
-
-#Riaad_img{
-    width: 530px;
-    height: 467px;
-    float: right;
-    margin-top: 100px;
-    margin-right: 300px;
-   
-  
-}
-#Riaad_since_text{
-    float: right;
-    margin-top: 680px;
-    margin-right: -550px;
-    line-height: 0.9cm;
-
-}
-#Riaad_since_title{
-    float: right;
-    margin-top: 700px;
-    display: block;
-    margin-right: -100px
-}
-.icons{
-    display: flex;
-    max-width: 5px;
-    max-height: 100px;
-    margin-top: 1000px;
     margin-left: 200px;
-}
-.Icons{
-    display: flex;
-    max-width: 1px;
-    height: 50px;
-    gap: 350px;
-  margin-left: 270px;
-}
-.what_we_do{
-    display: flex;
-    gap: 300px;
-    margin-left: 250px;
-}
-.What{
-    text-align: center;
-    padding-top: 3cm;
-}
-.Helping{
-    display: flex;
-    gap: 330px;
-    margin-left: 250px;
-    margin-top: 100px;
-
-}
-#click{
-   margin-top: 80px;
-   margin-right: -310px;
-   
-}
-#help_img{
+    margin-top: -10px;
+ }
+ .contact_tel{
+    float: right;
     margin-right: 200px;
-    margin-top: 80px;
-}
-#Blue{
-    position: relative; 
- z-index: -1; 
- top: 40; 
- left: 300;
- margin-left: 400px;
- width: 688px;
- height: 800px;
- 
-}
-#ladder{
-    position: absolute; 
- z-index: -1; 
- top: 30; 
- left: 00; 
- margin-left: 405px;
- 
- } 
- .white_part{
+ }
+ #done_header_icon{
+ width: 20px;
+ }
+ #trusted_moving_company{
+     border: 2px solid black;
+     background-color: black;
+     color: aliceblue;
+     text-align: center;
+     display: flex;
+     border-radius: 5px;
+     align-items: center;
+     padding-left: 700px;
+     
+ }
+ .fa-solid{
+     display: flex;
     
-   
-    margin-top:-200px;
-    margin-left: 500px;
-    z-index: 1;
-    display: inline-block;
-    
-
-    
-    /* display: inline; */
  }
- #white{
-    z-index: 1;
-    margin-top:-750px;
-    margin-left: 450px;
-    width: 300px;
-    height: 200px ;
-    border: 2pxsolid black;
- }
- .trio{
-    display: flex;
-    flex-direction: column;
-    float: left;
+ #Phone_icon{
+     float: right;
+     margin-right: 40px;
+     margin-top: 25px;
  
  }
- .question{
-    color: aliceblue;
-    margin-top:450px;
-    margin-left: 500px;
-    display: flex;
-    gap: 200px;
-    font-weight: bolder;
-   
+ #Email_icon{
+     float: left;
+     margin-left: 40px;
+     margin-top: 20px;
+     width: 50px;
  }
- #arrow{
-    width: 20px;
-    height: 20px;
-    margin-top: 15px;
-    color: aliceblue;
-    background-color: aliceblue;
+ #navigation_bar{
+     word-spacing: 120px;
+     margin-top: 100px;
+     text-align: center;
  }
- #correct{
-    width: 20px;
- }
- .leading{
-    float: right;
-    margin-left: 200px;
-    margin-bottom: 700px;
- }
- .all{
-    display: flex;
- }
-
-.book_online{
-    display: flex;
-    margin-top: -400px;
-    margin-left: 900px;
-}
-#combo{
-    position: relative; 
-    z-index: -1; 
-    top: 40; 
-    left: 300;
-    margin-left: 400px;
-    width: 1100px;
-    height: 900px;
-    padding-top: 80px;
-}
-#copy_img{
-    position: absolute;
- margin-top:80px;
-margin-left: -800px;
-z-index: 1;
-display: inline-block;
-margin-left: -1100px;
-width: 1100px;
-height: 500px;
-}
-
-#play_button{
-    position: absolute;
-    z-index: 1;
-    margin-top:250px;
-    margin-left: -650px;
-    width: 200px;
-    height: 200px ;
-    border: 2pxsolid black;
- 
-}
-.form_container{
-    position: absolute;
-    z-index: 1;
-    display: flex;
-    gap: 30px;
-    margin-top: -350px;
-    margin-left: 1000px;
-   
-    
-
-}
-.first_form{
-    width: 200px;
-    height:50px;
-    field-sizing: content 30px;
-    line-height: 1cm;
-    padding-top: 1cm;
-}
-.last_form{
-    margin-top: 60px;
-    line-height: 1cm;
-
-}
-input{
-    width: 150px;
-    height: 40px;
-}
-#send_request_button{
-    width: 120px;
-    height: 50px;
-    background-color: orangered;
-   
-}
-.book_now{
-    position: absolute;
-    z-index: 1;
-    margin-top: 50px;
-    margin-left: -400px;
-}
-.all_form{
-    display: flex;
- 
-   
-}
-#quote_img{
-    width: 50px;
-}
-.our_testimonials{
-    display: flex;
-    text-align: center;
-    gap: 100px;
-    margin-left: 400px;
-}
-#what_they_say{
-    text-align: center;
-    padding-top: 2cm;
-}
-.join_our_updates{
-    text-align: center;
-    padding-top: 2cm;
-    
-}
-#subscribe_button{
-   height: 50px;
-   background-color: orange;
-   font-weight: bolder;
-   color: aliceblue;
-}
-.article_images{
-  align-items: center;
-  gap: 10px;
-  display: flex;
-  margin-left: ;
-  padding-top: 1cm;
- 
-}
-#Newsarticles_introduction{
-  margin-bottom: -100px;
-}
-#Newsarticles_heading{
-    margin-bottom: -50px;
-    margin-left: 600px;
-    padding-top: 2cm;
-}
-.news_article{
-    align-items: center;
-    color: rgb(6, 23, 37);
-  font-size: larger;
-  margin-left: 100px;
-}
-#firstarticle{
-    width: 500px;
+ #first_image{
+     display: block;
+   margin-top: 50px;
+   width: 100%;
+   height: 700px;
   
-}
-#secondarticle{
-    width: 500px;
-    margin-top: 100px;
-}
-#thirdarticle{
-    width: 500px;
-}
-#homearticle_text{
-    position: absolute;
-    margin-top:250px;
-    margin-left: -470px;
-    z-index: 1;
-    display: inline-block;
+ }
+ .container{
+     position: relative;
+     text-align: center;
+     color: white;
+    
+ }
+ .image_text{
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     text-align: center;
+     color: antiquewhite;
+     background-color: rgba(0, 0, 0, 0.5);
+     z-index: 1;
+     width: 100%;
+     height: 80%;
+     margin-top: 60px;
+     background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.8) 100%);
+   
+   
+ }
+ h1{
+     font-size: 100px;
+     font-weight:700;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     /* line-height: 0.8cm; */
+ }
+ #logo{
+     margin-left: 10px;
+     margin-top: 80px;
+ 
+ }#get_started_button{
+     width: 200px;
+     height: 70px;
+     background-color: orange;
+     color: white;
+ }
+ .About_us{
+     float: left;
+    margin-left: 200px;
+    padding-top: 100px;
+ }
+ h2{
+     font-size: 50px;
+     font-weight: bolder;
+ }
+ 
+ #Riaad_img{
+     width: 530px;
+     height: 467px;
+     float: right;
+     margin-top: 100px;
+     margin-right: 300px;
+    
+   
+ }
+ #Riaad_since_text{
+     float: right;
+     margin-top: 680px;
+     margin-right: -550px;
+     line-height: 0.9cm;
+ 
+ }
+ #Riaad_since_title{
+     float: right;
+     margin-top: 700px;
+     display: block;
+     margin-right: -100px
+ }
+ .icons{
+     display: flex;
+     max-width: 5px;
+     max-height: 100px;
+     margin-top: 1000px;
+     margin-left: 200px;
+ }
+ .Icons{
+     display: flex;
+     max-width: 1px;
+     height: 50px;
+     gap: 350px;
+   margin-left: 270px;
+ }
+ .what_we_do{
+     display: flex;
+     gap: 300px;
+     margin-left: 250px;
+ }
+ .What{
+     text-align: center;
+     padding-top: 3cm;
+ }
+ .Helping{
+     display: flex;
+     gap: 330px;
+     margin-left: 250px;
+     margin-top: 100px;
+ 
+ }
+ #click{
+    margin-top: 80px;
+    margin-right: -310px;
+    
+ }
+ #help_img{
+     margin-right: 200px;
+     margin-top: 80px;
+ }
+ #Blue{
+     position: relative; 
+  z-index: -1; 
+  top: 40; 
+  left: 300;
+  margin-left: 400px;
+  width: 688px;
+  height: 800px;
+  
+ }
+ #ladder{
+     position: absolute; 
+  z-index: -1; 
+  top: 30; 
+  left: 00; 
+  margin-left: 405px;
+  
+  } 
+  .white_part{
+     
+    
+     margin-top:-200px;
+     margin-left: 500px;
+     z-index: 1;
+     display: inline-block;
+     
+ 
+     
+     /* display: inline; */
+  }
+  #white{
+     z-index: 1;
+     margin-top:-750px;
+     margin-left: 450px;
+     width: 300px;
+     height: 200px ;
+     border: 2pxsolid black;
+  }
+  .trio{
+     display: flex;
+     flex-direction: column;
+     float: left;
+  
+  }
+  .question{
+     color: aliceblue;
+     margin-top:450px;
+     margin-left: 500px;
+     display: flex;
+     gap: 200px;
+     font-weight: bolder;
+    
+  }
+  #arrow{
+     width: 20px;
+     height: 20px;
+     margin-top: 15px;
+     color: aliceblue;
+     background-color: aliceblue;
+  }
+  #correct{
+     width: 20px;
+  }
+  .leading{
+     float: right;
+     margin-left: 200px;
+     margin-bottom: 700px;
+  }
+  .all{
+     display: flex;
+  }
+ 
+ .book_online{
+     display: flex;
+     margin-top: -400px;
+     margin-left: 900px;
+ }
+ #combo{
+     position: relative; 
+     z-index: -1; 
+     top: 40; 
+     left: 300;
+     margin-left: 400px;
+     width: 1100px;
+     height: 900px;
+     padding-top: 80px;
+ }
+ #copy_img{
+     position: absolute;
+  margin-top:80px;
+ margin-left: -800px;
+ z-index: 1;
+ display: inline-block;
+ margin-left: -1100px;
+ width: 1100px;
+ height: 500px;
+ }
+ 
+ #play_button{
+     position: absolute;
+     z-index: 1;
+     margin-top:250px;
+     margin-left: -650px;
+     width: 200px;
+     height: 200px ;
+     border: 2pxsolid black;
+  
+ }
+ .form_container{
+     position: absolute;
+     z-index: 1;
+     display: flex;
+     gap: 30px;
+     margin-top: -350px;
+     margin-left: 1000px;
+    
+     
+ 
+ }
+ .first_form{
+     width: 200px;
+     height:50px;
+     field-sizing: content 30px;
+     line-height: 1cm;
+     padding-top: 1cm;
+ }
+ .last_form{
+     margin-top: 60px;
+     line-height: 1cm;
+ 
+ }
+ input{
+     width: 150px;
+     height: 40px;
+ }
+ #send_request_button{
+     width: 120px;
+     height: 50px;
+     background-color: orangered;
+    
+ }
+ .book_now{
+     position: absolute;
+     z-index: 1;
+     margin-top: 50px;
+     margin-left: -400px;
+ }
+ .book_now_container{
+     display: flex;
+  
+    
+ }
+ #quote_img{
+     width: 50px;
+ }
+ .our_testimonials{
+     display: flex;
+     text-align: center;
+     gap: 100px;
+     margin-left: 400px;
+ }
+ #what_they_say{
+     text-align: center;
+     padding-top: 2cm;
+ }
+ .join_our_updates{
+     text-align: center;
+     padding-top: 2cm;
+     
+ }
+ #subscribe_button{
+    height: 50px;
+    background-color: orange;
+    font-weight: bolder;
     color: aliceblue;
-}
-#orange_black_image{
-    margin-top: 400px;
-    margin-left: 350px;
-}
-.helpingUSA_text{
-    position: absolute;
-    margin-top:470px;
-    margin-left: -770px;
-    z-index: 1;
-    display: inline-flex;
-    gap: 250px;
-
-}
-#discover_more_button{
-    background-color:rgb(48, 45, 45);
-    color: aliceblue;
-}
-.about_us{
-    position: absolute;
-    display: flex;
-    list-style: none;
-    gap: 100px;
-    margin-top: -400px;
-    margin-left: 400px;
-    color: aliceblue;
-}
-.socialmedia_icons{
-    position: absolute;
-    margin-top: -300px;
-    margin-left: 1200px;
-}
-#copyright{
-    position: absolute;
-    margin-top: -70px;
-    margin-left: 700px;
-    color: aliceblue;
-
-}
+ }
+ .article_images{
+   align-items: center;
+   gap: 10px;
+   display: flex;
+   margin-left: ;
+   padding-top: 1cm;
+  
+ }
+ #Newsarticles_introduction{
+   margin-bottom: -100px;
+ }
+ #Newsarticles_heading{
+     margin-bottom: -50px;
+     margin-left: 600px;
+     padding-top: 2cm;
+ }
+ .news_article{
+     align-items: center;
+     color: rgb(6, 23, 37);
+   font-size: larger;
+   margin-left: 100px;
+ }
+ #firstarticle{
+     width: 500px;
+   
+ }
+ #secondarticle{
+     width: 500px;
+     margin-top: 100px;
+ }
+ #thirdarticle{
+     width: 500px;
+ }
+ #homearticle_text{
+     position: absolute;
+     margin-top:250px;
+     margin-left: -470px;
+     z-index: 1;
+     display: inline-block;
+     color: aliceblue;
+ }
+ #orange_black_image{
+     margin-top: 400px;
+     margin-left: 350px;
+ }
+ .helpingUSA_text{
+     position: absolute;
+     margin-top:470px;
+     margin-left: -770px;
+     z-index: 1;
+     display: inline-flex;
+     gap: 250px;
+ 
+ }
+ #discover_more_button{
+     background-color:rgb(48, 45, 45);
+     color: aliceblue;
+ }
+ .about_us_footer{
+     position: absolute;
+     display: flex;
+     list-style: none;
+     gap: 100px;
+     margin-top: -400px;
+     margin-left: 400px;
+     color: aliceblue;
+     
+ }
+ .socialmedia_icons{
+     position: absolute;
+     margin-top: -3500px;
+     margin-left: 1200px;
+ }
+ #copyright{
+     position: absolute;
+     margin-top: -70px;
+     margin-left: 700px;
+     color: aliceblue;
+ 
+ }
