@@ -1,10 +1,24 @@
 .contact_email{
    float: left;
    margin-left: 200px;
+   margin-top: -30px;
 }
 .contact_tel{
    float: right;
    margin-right: 200px;
+}
+#done_header_icon{
+width: 20px;
+}
+#topmost_header{
+    border: 2px solid black;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    display: flex;
+    border-radius: 5px;
+    align-items: center;
+    
 }
 .fa-solid{
     display: flex;
@@ -72,7 +86,7 @@ h1{
     background-color: orange;
     color: white;
 }
-.about_us{
+.About_us{
     float: left;
    margin-left: 200px;
    padding-top: 100px;
@@ -320,23 +334,30 @@ input{
    color: aliceblue;
 }
 .article_images{
-  max-height: 2px;
   align-items: center;
-  gap: 30px;
+  gap: 10px;
   display: flex;
-  margin-top: 200px;
- 
+  margin-left: ;
+  padding-top: 1cm;
  
 }
+#Newsarticles_introduction{
+  margin-bottom: -100px;
+}
+#Newsarticles_heading{
+    margin-bottom: -50px;
+    margin-left: 600px;
+    padding-top: 2cm;
+}
 .news_article{
-    
     align-items: center;
-    color: aliceblue;
+    color: rgb(6, 23, 37);
   font-size: larger;
+  margin-left: 100px;
 }
 #firstarticle{
     width: 500px;
-    position: relative;
+  
 }
 #secondarticle{
     width: 500px;
@@ -351,8 +372,7 @@ input{
     margin-left: -470px;
     z-index: 1;
     display: inline-block;
-
-    
+    color: aliceblue;
 }
 #orange_black_image{
     margin-top: 400px;
@@ -372,8 +392,23 @@ input{
     color: aliceblue;
 }
 .about_us{
+    position: absolute;
     display: flex;
     list-style: none;
     gap: 100px;
-    margin-bottom: -200px;
+    margin-top: -400px;
+    margin-left: 400px;
+    color: aliceblue;
+}
+.socialmedia_icons{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 1200px;
+}
+#copyright{
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 700px;
+    color: aliceblue;
+
 }
